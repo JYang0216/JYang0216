@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **JYang0216/JYang0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 哈喽，我是 J.Yang
+# 👋哈喽，我是 J.Yang
 
 嵌入式工程师，专注单片机软件开发。
-
-|   |   |   |
-| - | - | - |
 
 ## 👨‍💻 资深嵌入式软件工程师 | 51 & ARM 双修 | Python
 
